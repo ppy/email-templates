@@ -1,0 +1,3 @@
+After looking into your case, we must unfortunately deny your appeal. You have been recently found to be attempting to evade your ban, which is a direct violation or our community rules, and we therefore cannot yet allow you back into the game.
+
+Should you choose to abide by the [community rules](https://osu.ppy.sh/help/wiki/Rules), we would be happy to review another appeal from you three months from the date you last accessed any accounts other than your main. Do note that if you are found to be evading your ban again at a later point, we will no longer accept any correspondence with you.

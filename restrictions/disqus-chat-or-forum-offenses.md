@@ -1,0 +1,1 @@
+Your osu! account has been restricted due to poor community conduct and repeated severe infringements gathered from the chat, forums, or disqus platforms. We are an inclusive community and we expect a bare minimum of decency from everybody who chooses to participate. You can refresh yourself on our expectations by reading the [community rules](https://osu.ppy.sh/help/wiki/Rules).

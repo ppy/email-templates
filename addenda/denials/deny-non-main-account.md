@@ -1,0 +1,3 @@
+Sorry, but considering the account you are currently appealing for is not your original one or the one we consider your main, we cannot grant the appeal.
+
+Please file an appeal for the correct account by sending a new mail to accounts@ppy.sh. If you are unsure which account we consider your main, please reply to this e-mail and we'll give you the username of the account we expect you to be playing on.

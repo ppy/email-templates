@@ -1,0 +1,3 @@
+Sorry, it is against our name-change policy to claim the username of accounts that are not considered inactive. Usernames become available if their last login is (0.5 + play_count / 500) years from the current date (playcount counted over all gamemodes). We cannot change your name for you in this circumstance.
+
+You can find this information at any time [on our wiki](https://osu.ppy.sh/help/wiki/Help_Center#can-i-take-another-player's-username?).

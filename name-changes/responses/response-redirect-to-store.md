@@ -1,0 +1,1 @@
+Unfortunately we cannot offer you a name change at this time. All [osu! supporters](https://osu.ppy.sh/p/support) are given *one* name change to use at their leisure, and any more namechanges that aren't capitalization or punctuation changes must be [purchased via the osu!store](https://store.ppy.sh/store/product/32).

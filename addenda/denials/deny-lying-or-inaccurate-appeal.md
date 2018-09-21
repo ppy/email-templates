@@ -1,0 +1,3 @@
+Unfortunately, we cannot corroborate some of the information you've mentioned in your appeal, or your appeal's history is missing important parts. We need your appeal to be truthful and honest so that we can accurately measure your history and make a fair decision. If you are attempting to hide some of your history to us, what reason do we have to believe you'll be willing to play fairly in the future?
+
+This effectively resets the cooldown for appealing back to three months from the date you receive this reply. Please make sure that the next appeal you send is complete and truthful. We might cease replying to appeals if you are repeatedly attempting to conceal information from us.

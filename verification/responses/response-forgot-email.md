@@ -1,0 +1,1 @@
+If you've forgotten your account's e-mail address, try [filing an e-mail change request](http://osu.ppy.sh/p/forgot-email). Fill in the form as best you can - you can skip the chat verification step by clicking the link given on the web page.

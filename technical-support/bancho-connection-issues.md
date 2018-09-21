@@ -1,0 +1,3 @@
+Make sure that you are not using any proxies or VPNs while trying to connect to the game. Disabling them might fix the issue.
+
+If you aren't, please get on the Cutting Edge release stream (you will find the setting for this in the Options) and let osu! run for a while to replicate the problem a few times, then [send us the network.log file](https://osu.ppy.sh/help/wiki/Help_Center#how-do-i-provide-log-files-when-asked) found in the Logs folder in your osu! installation directory.

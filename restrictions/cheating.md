@@ -1,0 +1,1 @@
+Your account has been observed engaging in cheating behaviour and has been permanently restricted. Any further accounts you attempt to create will be placed under an identical state.

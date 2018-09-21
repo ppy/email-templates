@@ -1,0 +1,1 @@
+Apologies for the inconvenience, but we only provide support to account-holders themselves. Please have the person you're contacting us send us a mail themselves if they wish to pursue the matter further.

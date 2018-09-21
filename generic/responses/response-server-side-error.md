@@ -1,0 +1,1 @@
+Unfortunately, this is an error that we cannot fix on our end. It generally happens when you are using a shared connection, proxy or VPN. If you are, try disabling them and attempt registering again.

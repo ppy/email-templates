@@ -1,0 +1,3 @@
+We believe your account may currently not be secure due to the e-mail address it is registered under and have decided to restrict it as a safety measure. If you are able to, please change your account's e-mail address to another one (or provide us with one and we'll do it for you). Make sure to change your password afterwards!
+
+We apologize for the delay and the lack of notification from our end. This restriction won't impact your account's future once it's lifted.

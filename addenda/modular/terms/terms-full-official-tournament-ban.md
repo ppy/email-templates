@@ -1,0 +1,2 @@
+
+Additionally, you will not be allowed to participate in any official tournaments at any point in time in the future, and you will not be considered for any form of elevated position. This is non-negotiable and will not be revoked.

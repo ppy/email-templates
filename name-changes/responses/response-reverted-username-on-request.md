@@ -1,0 +1,1 @@
+We have changed your username back as requested. Please keep in mind that we only perform this once per account, and if you want to change your name again, you will need to [purchase a change through the store](https://osu.ppy.sh/store/products/32).

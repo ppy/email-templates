@@ -1,0 +1,1 @@
+You can download the nono keyboard's drivers and configuration directly on [this link](http://puu.sh/l6urN/4b6bc800f2.zip).

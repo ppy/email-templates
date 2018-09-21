@@ -1,0 +1,1 @@
+What part of the registration process are you having trouble with? Remember that you need to download and log in to the osu! client before you can log in on the website.

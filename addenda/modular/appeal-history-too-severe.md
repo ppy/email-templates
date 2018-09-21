@@ -1,0 +1,1 @@
+Unfortunately, the history associated with your time on osu! is simply too severe for us to allow you to rejoin the community at the current time.

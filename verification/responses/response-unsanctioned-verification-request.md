@@ -1,0 +1,3 @@
+Verification is required whenever an action is performed on your account (on the website or in the client) from a computer or IP that has not been verified before. If you've recently accessed your account from an unusual or new place, it's likely you've requested the verification yourself without realizing it. Head over to [the verification page](http://osu.ppy.sh/p/verify) to complete the process! (this will send you a new code - use the newer one)
+
+If you are absolutely positive you have not done anything that would require verification, we strongly recommend you immediately change your account's password as well as check the integrity of your e-mail address. It's possible your account has been accessed by someone who wasn't you.

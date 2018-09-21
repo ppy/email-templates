@@ -1,4 +1,3 @@
-
 What we expect from appeals is as follows:
 
 - a full, honest history of your account, including any rulebreaking activities

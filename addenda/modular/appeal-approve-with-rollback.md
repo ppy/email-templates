@@ -1,2 +1,1 @@
-
 We have reset your account back to the last date we believe you were playing fairly from (ignore the e-mail you will receive as a result of the rollback). Please let us know if we've missed any illegitimate scores so that we can remove them before you start playing again.

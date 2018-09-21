@@ -1,4 +1,4 @@
-Receiving a password reset request does not mean that your account has been broken into, as it can be sent from [the password recovery page](http://osu.ppy.sh/p/forgot) (this will redirect you to the settings if you are logged in).
+Receiving a password reset request does not mean that your account has been broken into, as it can be sent from the [password recovery page](http://osu.ppy.sh/p/forgot) (this will redirect you to the settings if you are logged in).
 
 It means that someone visited this page and entered either your username or your account's e-mail address trying to recover access to their account.
 

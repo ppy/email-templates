@@ -5,4 +5,4 @@ Hold the (left) SHIFT button while starting osu! and keep holding it untill a co
 Change your renderer to 'DirectX' in there and then click the 'start osu!' button.
 If this setting isn't visible but you do have a setting to enable 'compatibility mode', enable this instead.
 
-If you're still experiencing the issue try updating your graphics drivers. You can find more information about that [here](https://osu.ppy.sh/wiki/GL_Support_Issues).
+If you're still experiencing the issue try updating your graphics drivers. You can find more information about that [here](https://osu.ppy.sh/help/wiki/Guides/GL_Support_Issues).

@@ -1,1 +1,1 @@
-Your account has been observed engaging in account sharing behaviour. Playing on someone else's account or having someone else play on yours is strictly forbidden, as per [our rules](https://osu.ppy.sh/help/wiki/Rules).
+Your account has been observed engaging in account sharing behaviour. Playing on someone else's account or having someone else play on yours is strictly forbidden, as per our [community rules](https://osu.ppy.sh/help/wiki/Rules).

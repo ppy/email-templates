@@ -1,2 +1,1 @@
-
 You may appeal your account's restriction 3 months from now by sending a mail to accounts@ppy.sh. Any ticket or mail sent before that will be ignored. Maintaining good behaviour while waiting is key to having a chance to be allowed back.

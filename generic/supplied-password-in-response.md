@@ -1,2 +1,1 @@
-
 Please never give your password to anybody, including moderators or game support. We will never ask for it, and if any user does, please immediately block them, screenshot the conversation, and send us a mail to report it (attaching the screenshot as proof). We highly advise changing your password as soon as you are able to to guarantee the safety of your account.

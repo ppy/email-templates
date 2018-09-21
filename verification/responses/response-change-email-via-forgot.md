@@ -1,0 +1,1 @@
+Please visit [this page](http://osu.ppy.sh/p/forgot-email) and follow the instructions to get your email address changed. If you are unable to complete the chat verification step, you can skip it by clicking the link given on the webpage.

@@ -1,0 +1,1 @@
+Thank you. We've changed your account's flag as requested. Please remember that flag changes are permanent and we only grant one per user, which means we'll deny future requests.

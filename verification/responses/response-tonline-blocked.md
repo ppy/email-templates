@@ -1,0 +1,1 @@
+We are aware of issues with your current mail provider, who blocks automated e-mails from our services. Unfortunately, we cannot revoke that block. If you have another e-mail address, please communicate it to us so that we can change your account's address to enable you to receive the automated e-mails. You are welcome to change it back afterwards.

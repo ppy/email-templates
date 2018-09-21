@@ -1,0 +1,3 @@
+It is not against our rules to play on the same device as other users, but we have to recommend extreme caution if it happens. Please make sure that you properly log out of your account once you are done playing, or if you stray from the computer for any length of time. You are considered fully responsible for your account, and if somebody else breaks the rules on it, you will be held accountable, as we cannot verify claims that another person did it. Also, make sure to check that the account you're about to play on is indeed yours!
+
+If you are careful enough, there will be no issues with your playing on the same computer as someone else.

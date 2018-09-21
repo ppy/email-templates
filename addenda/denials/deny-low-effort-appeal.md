@@ -1,0 +1,3 @@
+After reviewing your case, we unfortunately have no choice but to decline your current appeal. Your appeal lacked significant detail and effort - we generally require a more convincing response than some variation of "please let me play again". If you cannot be bothered to spend a few minutes more on writing a more detailed appeal, how can we possibly trust that you will abide by the rules if we do allow you to return?
+
+You are more than welcome to send a new appeal at any point in time if you wish to, although we'd encourage waiting at least a week so that you can craft a more convincing one. This does not mean that you are permanently restricted or that we aren't willing to give you a chance - it simply means that we are not yet sure we should.

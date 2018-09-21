@@ -1,0 +1,1 @@
+We have decided to grant your appeal. Your account has been reactivated. Consider this your second and final chance: any further misbehaviours will result in a permanent ban. Take a moment to read the [Community Rules](https://osu.ppy.sh/wiki/Osu!:Rules) again.

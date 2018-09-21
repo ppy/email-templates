@@ -1,0 +1,1 @@
+Unfortunately, we cannot grant you this flag change. We only perform this once per account, and you have already been granted a change in the past. You will have to continue playing under your current flag.

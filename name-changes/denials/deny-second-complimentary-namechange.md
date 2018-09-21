@@ -1,0 +1,1 @@
+Sorry, we cannot revert your namechange again. In order to prevent abuse, we only offer this once per account, and have already done it for yours. If you'd like to claim your previous username back, you will need to do so [on the store](https://osu.ppy.sh/store/products/32).

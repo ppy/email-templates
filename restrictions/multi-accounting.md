@@ -1,0 +1,3 @@
+Your account has been found to be in breach of our community rules regarding multiple accounts creation and sharing. Owning or using multiple accounts are not allowed - each osu! member may only have *one* account associated with them. It is also forbidden to play on someone else's account or have someone else play on yours.
+
+Your original account likely remains accessible. Please use the first account that you ever created to play, and do not create any additional multi-accounts or share your account with anyone in the future. Avoid accessing any of your other accounts, as that would still be a breach of our rules and might lead to further sanctions.

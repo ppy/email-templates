@@ -1,0 +1,3 @@
+Unfortunately, it seems that the 3 month cooldown after your latest ban has not yet passed. While we have to deny your appeal for now, you are welcome to send a new appeal when the cooldown is over. If you are unsure when your account was restricted, please reply, and we'll give you the exact date after which you may send a new appeal.
+
+If you do not have anything to add to your new appeal, feel free to send the same appeal again, but we would recommend writing a new one if possible.

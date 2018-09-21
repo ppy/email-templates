@@ -1,0 +1,1 @@
+We can revert your recent namechange if your previous username is still available, but it will not return your ability to change it for free in the future and will not refund the money if you paid for it. Are you sure you want it?

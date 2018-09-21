@@ -1,0 +1,3 @@
+This is an issue introduced by the recent windows 10 update. We have yet to fix it, so for now, the only solution is to disable Raw Input.
+
+Some of our users have reported a workaround to get it to work again. If you're using a Wacom Tablet, open Wacom Tablet Properties, and in one of the tabs, there's an option that is ticked by default relating to Windows Ink. Disable that option and Raw Input should work with Windows 10 again.

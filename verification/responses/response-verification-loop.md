@@ -1,0 +1,3 @@
+This generally happens when you have several sessions open for your account, some of which are not properly verified. To fix it, make sure you've logged out of all active sessions (on all computers if you've been using different ones) in the old website, new website and the client.
+
+Please also ensure that you are using the Stable (Latest) or Cutting Edge client build (you can check that at the top of the Options panel). Once you've done all that, you should be able to attempt verifying again.

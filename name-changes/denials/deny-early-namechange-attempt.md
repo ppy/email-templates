@@ -1,0 +1,1 @@
+Sorry, we cannot tag a username as available before the full cooldown has passed. You will unfortunately have to wait the full duration indicated on the store before being able to claim it.

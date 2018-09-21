@@ -1,0 +1,2 @@
+
+Additionally, you will not be allowed to participate in any official tournaments for a period of one year from the day you receive this message as a probation period for us to ensure that your behaviour has improved. After this, you will be able to apply for tournaments normally.

@@ -1,1 +1,1 @@
-Due the fact that you misused the name change function, we are not willing to grant you another free change. If you wish to change your username again, you can do so [on the store](https://osu.ppy.sh/store/product/32).
+Due to the fact that you misused the name change function, we are not willing to grant you another free change. If you wish to change your username again, you can do so [on the store](https://osu.ppy.sh/store/product/32).
